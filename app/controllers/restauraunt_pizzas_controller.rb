@@ -1,0 +1,2 @@
+class RestaurauntPizzasController < ApplicationController
+end
